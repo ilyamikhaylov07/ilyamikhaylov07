@@ -4,7 +4,7 @@
 ---
 
 ### 🙋‍♂️ Немного обо мне
-
+- [![wakatime](https://wakatime.com/badge/user/e3c934ce-3f91-44a5-90cd-0f9f6f3cc320.svg)](https://wakatime.com/@e3c934ce-3f91-44a5-90cd-0f9f6f3cc320)
 - 🧑‍💻 Backend Developer, работаю с **ASP.NET Core**, **Entity Framework**, **PostgreSQL**, **Docker**
 - 🚀 Занимаюсь разработкой микросервисов и REST API
 - 🧱 На работе использую **xUnit**, **Testcontainers**, **Moq** для тестирования
