@@ -47,14 +47,7 @@
 
 ---
 
-### 📄 Резюме и контакты
+### 📄 Контакты
 
 - 📫 Email: **mr.ilmix@mail.ru**
-- 📄 [Моё резюме](https://disk.yandex.ru/i/aICYcqd350oxKw)
-- 🧩 LeetCode: [ilyamikhailov](https://www.leetcode.com/ilyamikhailov)
 
----
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ilyamikhaylov07&show_icons=true&locale=en&layout=compact" alt="ilyamikhaylov07" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ilyamikhaylov07&show_icons=true&locale=en" alt="ilyamikhaylov07" /></p>
